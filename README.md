@@ -23,7 +23,7 @@ It is possible to upgrade the project and, the GitHub feedback is highly appreci
 
 # License
 
-The project is licensed through an [MIT](License.txt) License.
+The project is licensed through an [MIT](/notecollect/License.txt) License.
 
 All Rights Reserved <br>
 Copyright © 2022 - Present Thanura Silva
