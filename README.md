@@ -1,4 +1,4 @@
-# NoteTaker - 2022 - A demo react application with Firebase integration
+# NoteTaker - 2022 - A demo React application with Firebase integration
 
 # Overview
 
